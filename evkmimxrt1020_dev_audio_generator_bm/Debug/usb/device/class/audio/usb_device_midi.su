@@ -1,0 +1,11 @@
+usb_device_midi.c:44:21:USB_DeviceAudioMIDIStreamingAllocateHandle	24	static
+usb_device_midi.c:75:21:USB_DeviceAudioMIDIStreamingFreeHandle	24	static
+usb_device_midi.c:90:14:USB_DeviceAudioMIDIStreamingInit	32	static
+usb_device_midi.c:134:14:USB_DeviceAudioMIDIStreamingDeinit	24	static
+usb_device_midi.c:151:14:USB_DeviceAudioMIDIStreamingOut	32	static
+usb_device_midi.c:171:14:USB_DeviceAudioMIDIStreamingIn	32	static
+usb_device_midi.c:192:14:USB_DeviceAudioMIDIStreamingEndpointsInit	56	static
+usb_device_midi.c:258:14:USB_DeviceAudioMIDIStreamingEndpointsDeinit	32	static
+usb_device_midi.c:323:14:USB_DeviceAudioMIDIStreamingEvent	48	static
+usb_device_midi.c:584:14:USB_DeviceAudioMIDIStreamingRecv	32	static
+usb_device_midi.c:593:14:USB_DeviceAudioMIDIStreamingSend	32	static

@@ -1,0 +1,12 @@
+core_cm7.h:1902:22:__NVIC_EnableIRQ	16	static
+core_cm7.h:2030:22:__NVIC_SetPriority	16	static
+fsl_common.h:460:28:EnableIRQ	16	static
+audio_generator.c:84:6:USB_OTG1_IRQHandler	8	static
+audio_generator.c:89:6:USB_OTG2_IRQHandler	8	static
+audio_generator.c:95:6:USB_DeviceClockInit	16	static
+audio_generator.c:113:6:USB_DeviceIsrEnable	16	static
+audio_generator.c:141:14:USB_DeviceAudioRequest	32	static
+audio_generator.c:159:14:USB_DeviceAudioCallback	32	static
+audio_generator.c:197:14:USB_DeviceCallback	40	static
+audio_generator.c:302:6:APPInit	8	static
+audio_generator.c:333:5:main	8	static
