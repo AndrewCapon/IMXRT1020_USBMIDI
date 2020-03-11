@@ -1,4 +1,4 @@
 # IMXRT1020_USBMIDI
 
 NXP社のクロスオーバープロセッサであるIMXRTシリーズでUSBMIDI通信を行うサンプルです。
-MCUXpressoSDK USB Stackを利用しているのでRT1010,RT1015,RT1020,RT1050,RT1050,RT1060,RT1064でも動作可能だと思います。
+MCUXpressoSDK USB Stackを利用しているのでRT1010,RT1015,RT1020,RT1050,RT1050,RT1060,RT1064でも動作可能だと思いますがプロジェクト自体はMIMXRT1020-EVKで作成しています。
